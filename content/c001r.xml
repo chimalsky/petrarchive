@@ -494,41 +494,7 @@ the line wraps. -->
          <pb n="charta 1 recto" facs="../images/vat-lat3195-f/vat-lat3195-f-001r.jpg" />
          <head corresp="#canvasline"><hi rendition="#blue #fs24pt">F</hi><hi rendition="#small-caps #red">r</hi><hi rendition="#red">ancisci petrarche laureati poete. Rerum vulgarium fragmenta.</hi></head>
          <!-- this is the title of the work: above the transcriptional lines -->
-          <lg xml:id="rvf001" type="sonnet" n="1">
-            <lg type="octave">
-               <lg type="dblvrs" corresp="#canvasline">
-                  <l n="1"><hi rendition="#blue #fs24pt"
-                     ><choice><orig>U</orig><reg>V</reg></choice></hi><hi rendition="#small-caps">o</hi>i <choice><orig>chascoltate</orig><reg>ch’ascoltate</reg></choice> in rime sparse il suono</l>
-                  <l n="2">Di quei sospiri <choice><orig>ondio</orig><reg>ond’io</reg></choice> <choice><orig>nudriual</orig><reg>nudriva ’l</reg></choice> core</l>
-               </lg>
-               <lg type="dblvrs" corresp="#canvasline">
-                  <l n="3">In sul mio primo <choice><orig>giouenile</orig><reg>giovenile</reg></choice> errore<supplied>,</supplied></l>
-                  <l n="4"><choice><orig><abbr>Quādera</abbr><expan>Quandera</expan></orig><reg>Quand’era</reg></choice> &in; parte <choice><orig>altruom</orig><reg>altr’ uom</reg></choice> da <choice><orig>&q-macron;l</orig><reg>quel</reg></choice> <choice><orig>chio</orig><reg>ch’i’</reg></choice> sono<supplied>,</supplied></l>
-               </lg>
-               <lg type="dblvrs" corresp="#canvasline">
-                  <l n="5">Del <choice><orig>uario</orig><reg>vario</reg></choice> stile in <choice><orig>chio</orig><reg>ch’io</reg></choice> piango &amp7; ragiono</l>
-                  <l n="6">Fra le <choice><orig>uane</orig><reg>vane</reg></choice> <choice><orig>sperançe</orig><reg>speranze</reg></choice> <choice><orig>el</orig><reg>e ’l</reg></choice> <choice><orig>uan</orig><reg>van</reg></choice> dolore<supplied>,</supplied></l>
-               </lg>
-               <lg type="dblvrs" corresp="#canvasline">
-                  <l n="7"><choice><orig>Oue</orig><reg>Ove</reg></choice> sia chi &per; <choice><orig>proua</orig><reg>prova</reg></choice> intenda amore<reg>,</reg></l>
-                  <l n="8">Spero <choice><orig>trouar</orig><reg>trovar</reg></choice> <choice><orig>pieta</orig><reg>pietà</reg></choice><reg>,</reg> <choice><orig>non che</orig><reg>nonché</reg></choice> perdono.</l>
-               </lg>
-            </lg>
-            <lg type="sestet">
-               <lg type="dblvrs" corresp="#canvasline">
-                  <l n="9">Ma ben <choice><orig>ueggio</orig><reg>veggio</reg></choice> or <choice><orig>si</orig><reg>sì</reg></choice> come al popol tutto</l>
-                  <l n="10"><choice><orig>Fauola</orig><reg>Favola</reg></choice> fui gran <choice><abbr>tēpo</abbr><expan>tempo</expan></choice>&p2c; onde <choice><orig>souente</orig><reg>sovente</reg></choice></l>
-               </lg>
-               <lg type="dblvrs" corresp="#canvasline">
-                  <l n="11"><choice><orig>di</orig><reg>Di</reg></choice> me medesmo meco mi <choice><orig>uergogno</orig><reg>vergogno</reg></choice>.</l>
-                  <l n="12">Et del mio <choice><orig>uaneggiar</orig><reg>vaneggiar</reg></choice> <choice><orig>uergogna</orig><reg>vergogna</reg></choice> <choice><orig>el</orig><reg>è ’l</reg></choice> frutto<supplied>,</supplied></l>
-               </lg>
-               <lg type="dblvrs" corresp="#canvasline">
-                  <l n="13"><choice><orig>el</orig><reg>E ’l</reg></choice> pentersi<choice><orig>.</orig><reg></reg></choice> <choice><orig>el</orig><reg>e ’l</reg></choice> conoscer <choice><abbr>chiaramēte</abbr><expan>chiaramente</expan></choice></l>
-                  <l n="14">Che &quanto; piace al <choice><abbr>mōdo</abbr><expan>mondo</expan></choice> <choice><orig>e</orig><reg>è</reg></choice> <choice><orig>breue</orig><reg>breve</reg></choice> sogno<supplied>.</supplied></l>
-               </lg>
-            </lg>
-         </lg>
+          
          <space corresp="#canvasline"/>
           <lg xml:id="rvf002" type="sonnet" n="2">
             <lg type="octave">
